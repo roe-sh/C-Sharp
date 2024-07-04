@@ -1,2 +1,2 @@
 # C-Sharp
-i will upload all my task on this repo
+i will upload all of my tasks on this repo
