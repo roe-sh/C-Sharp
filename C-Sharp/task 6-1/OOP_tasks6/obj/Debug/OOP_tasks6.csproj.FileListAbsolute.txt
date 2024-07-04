@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\OOP_tasks6\OOP_tasks6\bin\Debug\OOP_tasks6.exe.config
+C:\Users\user\source\repos\OOP_tasks6\OOP_tasks6\bin\Debug\OOP_tasks6.exe
+C:\Users\user\source\repos\OOP_tasks6\OOP_tasks6\bin\Debug\OOP_tasks6.pdb
+C:\Users\user\source\repos\OOP_tasks6\OOP_tasks6\obj\Debug\OOP_tasks6.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\OOP_tasks6\OOP_tasks6\obj\Debug\OOP_tasks6.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OOP_tasks6\OOP_tasks6\obj\Debug\OOP_tasks6.exe
+C:\Users\user\source\repos\OOP_tasks6\OOP_tasks6\obj\Debug\OOP_tasks6.pdb

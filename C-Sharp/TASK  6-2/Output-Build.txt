@@ -1,0 +1,5 @@
+﻿Build started at 23:03...
+1>------ Build started: Project: TASK  6-2, Configuration: Debug Any CPU ------
+1>  TASK  6-2 -> C:\Users\user\source\repos\TASK  6-2\TASK  6-2\bin\Debug\TASK  6-2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 23:03 and took 02.481 seconds ==========
